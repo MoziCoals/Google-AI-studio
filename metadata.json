@@ -1,0 +1,5 @@
+{
+  "name": "AI Digital Marketing Strategist",
+  "description": "An AI-powered chatbot that leverages Gemini with Google Search grounding to provide up-to-date digital marketing trends, strategies, and growth hacks. Users can ask complex questions and receive structured, actionable plans.",
+  "requestFramePermissions": []
+}
